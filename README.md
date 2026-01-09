@@ -27,8 +27,8 @@ End-to-end project predicting customer churn for a telecom company using machine
 ## Dashboard Screenshots
 
 ### Executive Overview
-![Executiv<img width="1340" height="732" alt="Executive Overview" src="https://github.com/user-attachments/assets/6fccda7a-60f1-48c1-bea4-e316c76a151a" />
-e Overview]
+![Executive Overview] <img width="1340" height="732" alt="Executive Overview" src="https://github.com/user-attachments/assets/6fccda7a-60f1-48c1-bea4-e316c76a151a" />
+
 
 ### Segment Analysis
 ![Segment Analysis](screenshots/segment-analysis.png)
