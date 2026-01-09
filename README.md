@@ -44,6 +44,4 @@ End-to-end project predicting customer churn for a telecom company using machine
 - Target month-to-month Fiber optic customers with discounts/loyalty offers
 - Promote OnlineSecurity & TechSupport bundles to reduce churn
 
-Feel free to connect: [LinkedIn](www.linkedin.com/in/arnav-mehta-43b790230
-
-) | [Email](arnavmehta2903@gmail.com)
+Feel free to connect: [LinkedIn](www.linkedin.com/in/arnav-mehta-43b790230) | [Email](arnavmehta2903@gmail.com)
