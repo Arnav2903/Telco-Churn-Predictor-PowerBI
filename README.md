@@ -31,10 +31,12 @@ End-to-end project predicting customer churn for a telecom company using machine
 
 
 ### Segment Analysis
-![Segment Analysis](screenshots/segment-analysis.png)
+![Segment Analysis]<img width="1493" height="718" alt="Segment Analysis" src="https://github.com/user-attachments/assets/b2d9420a-b1d8-4fdc-a423-26c8af9c9037" />
+
 
 ### High-Risk Customers Table
-![High-Risk Table](screenshots/high-risk-table.png)
+![High-Risk Table]<img width="1319" height="706" alt="High Risk Table" src="https://github.com/user-attachments/assets/c0c8a325-e0b5-47de-9e33-65733c9086c9" />
+
 
 ## How to Run
 1. Open `churn_analysis.ipynb` in Google Colab → Run all cells
